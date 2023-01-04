@@ -1,0 +1,11 @@
+{
+    "name": "CityFinder",
+    "alias": "cityfinder",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\CityFinder\\Providers\\CityFinderServiceProvider"
+    ],
+    "files": []
+}
